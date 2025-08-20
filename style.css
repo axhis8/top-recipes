@@ -31,7 +31,8 @@ a {
 
 #title,
 .card,
-.aboutme {
+.aboutme,
+.home {
     border-radius: 20px;
     border: red solid 3px;
     background-color: yellow;
@@ -64,4 +65,16 @@ a {
     color: red;
     width: 100px;
     margin: -20px auto 25px;
+}
+
+.home {
+    width: 100px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.card.aboutme_text {
+    font-size: 19px;
+    margin-top: 50px;
+    padding: 20px 40px 10px;
 }
