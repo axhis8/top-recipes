@@ -78,3 +78,34 @@ a {
     margin-top: 50px;
     padding: 20px 40px 10px;
 }
+
+.card.image {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.card.description {
+    margin-top: -20px;
+    padding: 5px 15px;
+}
+
+.recipe {
+    text-align: left;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin-top: -10px;
+}
+
+.recipe .food_title {
+    box-sizing: border-box;
+    text-align: center;
+    width: 160px;
+    height: 80px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.redirect {
+    margin-top: -20px;
+    width: 380px;
+}
