@@ -29,7 +29,6 @@ a {
 }
 
 #title,
-.card,
 .aboutme,
 .home {
     border-radius: 20px;
@@ -53,7 +52,7 @@ a {
     text-align: center;
     width: 450px;
     margin: 50px auto;
-    padding: 20px;
+    padding: 10px 20px;
     font-size: 15px;
 }
 
@@ -83,6 +82,7 @@ a {
 
 .card.image {
     margin-top: 20px;
+    padding-top: 30px;
 }
 
 .card.description {
